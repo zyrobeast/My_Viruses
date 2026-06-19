@@ -1,4 +1,4 @@
-# Java System Disruption Experiments
+# My Viruses
 
 A collection of small Java programs I created around Class 10 while learning about event automation and system interaction using the Java `Robot` class.
 

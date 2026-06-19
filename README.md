@@ -4,6 +4,8 @@ A collection of small Java programs I created around Class 10 while learning abo
 
 These programs are **not real viruses or malware**. They are standalone applications that must be manually installed and executed. Their purpose was to help me understand how software can generate artificial user input and how poorly designed programs can negatively affect a system's usability.
 
+The original source code has mostly been lost due to hard disk corruption, but I was able to recover and decompile the executable saved in cloud, which is preserved in this repository.
+
 ## Learning Objectives
 
 * Understanding Java's `Robot` class
